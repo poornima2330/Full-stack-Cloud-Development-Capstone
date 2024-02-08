@@ -1,7 +1,7 @@
-# Full Stack Django Cloud Dev Project
+# Full Stack Django Cloud  Project
 ### _A cloud-hosted web-app for a car dealership's car reviewal platform_
 
-This repo contains the code for a Django [web application](https://sr-django-capstone.eu-de.mybluemix.net/djangoapp/) hosted in the IBM Cloud. 
+This repo contains the code for a Django hosted in the IBM Cloud. 
 
 #### Background
 I developed the application as part of the final [Capstone Project](https://www.coursera.org/learn/ibm-cloud-native-full-stack-development-capstone?specialization=ibm-full-stack-cloud-developer) in the 10-course [IBM Full Stack Cloud Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) on Coursera. I was provided an initial rudimentary version of the Django application, without 
